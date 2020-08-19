@@ -51,6 +51,7 @@ Hi, I'm Hritwik Tripathi, a Blockchain Geek 🚀 from India.Currently, I'm an op
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.bI8KDjd8-nDvzTX_Uok7FwHaHa%26pid%3DApi&f=1"></code>
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.FulerPSf6CnOQcQ_Vo4KcQHaG2%26pid%3DApi&f=1"></code>
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.7D5uM_zPzVpXQMoruEzRPAHaKc%26pid%3DApi&f=1"></code>
+<code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.xQCjgB2DVqhtqGoGw9E6TQHaHa%26pid%3DApi&f=1"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
