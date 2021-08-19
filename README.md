@@ -35,8 +35,8 @@ Hi, I'm Hritwik Tripathi, a Blockchain Geek 🚀 from India.Currently, I'm an op
 - 👨🏽‍💻 I’m currently working on improving my techskills
 - 🌱 I’m currently learning Ethereum
 - 👯 I’m looking to collaborate on Blogs and Hackathons
-- 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: Pull your own weight
+- 💬 Ask me anything, I am happy to help
+- ⚡️ Fun-Fact: Sky is the limit
 - 🧡 Anime & Korean Drama
 - 💖 South-Korea
 - 🤟🏻 Love to hear EDM and K-pop
