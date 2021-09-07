@@ -1,8 +1,9 @@
-### Hey 👋🏽, I'm Hritwik!
+### Hey <img width="22" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Hi.gif" /> I'm Hritwik! <img width="35" src="https://siasky.net/DADVJXKnQMUnDXegHC7sj4NEBiEVVFcJkyEtUZ8P75oEwg" />
 <br />
 <span>
  <a href="https://twitter.com/Escavalier99">
   <img align="left" alt="Hritwik Tripathi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  
 </a>
 <a href="https://www.linkedin.com/in/hritwik-tripathi-a936a2196//">
   <img align="left" alt="Hritwik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -24,8 +25,8 @@
 <br />
 <br />
 
+<i>Hi, I'm Hritwik Tripathi, a Blockchain Geek 🚀 from India.Currently, I'm an web3 developer.I'm a mad person with an attitude of persuing "The Road Not Taken", trying to make a decentralized world possible. Beside's programming, I enjoy playing Video games and chilling with my buddies.</i>
 
-Hi, I'm Hritwik Tripathi, a Blockchain Geek 🚀 from India.Currently, I'm an open source contributer.I'm a mad person with an attitude of persuing "The Road Not Taken", trying to make a decentralized world possible. Beside's programming, I enjoy playing Video games and chilling with my buddies.
 
 <img align="right" alt="GIF" src="https://s-media-cache-ak0.pinimg.com/originals/5c/d6/3f/5cd63fd3b407ff02bb89d342741b452d.gif" />
 
@@ -33,15 +34,15 @@ Hi, I'm Hritwik Tripathi, a Blockchain Geek 🚀 from India.Currently, I'm an op
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskills
-- 🌱 I’m currently learning Ethereum
+- 🌱 I’m currently learning web3
 - 👯 I’m looking to collaborate on Blogs and Hackathons
 - 💬 Ask me anything, I am happy to help
 - ⚡️ Fun-Fact: Sky is the limit
-- 🧡 Anime & Korean Drama
-- 💖 South-Korea
+- 🧡 Anime & K-Drama
+- 💖 South-Korea & India
 - 🤟🏻 Love to hear EDM and K-pop
-- 🏫 Persuing my bachelor's at IIIT Lucknow
-- 🤗 Member at @axios-iiitl @ecell-iiitl
+- 🏫 Persuing my bachelor's at <a href="https://iiitl.ac.in/">IIIT Lucknow</a>
+- 🤗 Member at @axios-iiitl
 
 **Languages and Tools:**  
 
@@ -58,8 +59,10 @@ Hi, I'm Hritwik Tripathi, a Blockchain Geek 🚀 from India.Currently, I'm an op
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Q4qu3UfPuHdzSYKp1mVRCAHaHa%26pid%3DApi&f=1"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/10379994/31985754-c56b8dba-b998-11e7-9705-a7f984433049.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ethereum/remix-ide/master/favicon.ico"></code> 
+<code><img height="20" src="https://pbs.twimg.com/profile_images/1317925773425168384/XQkaoFRg_400x400.jpg"></code> 
 
 ![Hritwik's github stats](https://github-readme-stats.vercel.app/api?username=3scava1i3r&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
