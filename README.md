@@ -25,7 +25,7 @@
 <br />
 <br />
 
-<i>Hi, I'm Hritwik Tripathi, a Blockchain Geek 🚀 from India.Currently, I'm an web3 developer.I'm a mad person with an attitude of persuing "The Road Not Taken", trying to make a decentralized world possible. Beside's programming, I enjoy playing Video games and chilling with my buddies.</i>
+<i>Hi, I'm Hritwik Tripathi, a Blockchain Geek 🚀 from India.Currently, I'm an web3 developer.I'm a mad person with an attitude of persuing "The Road Not Taken", trying to make a decentralized world possible. Beside's programming, I enjoy Swimming and playing Valorant</i>
 
 
 <img align="right" alt="GIF" src="https://s-media-cache-ak0.pinimg.com/originals/5c/d6/3f/5cd63fd3b407ff02bb89d342741b452d.gif" />
@@ -55,7 +55,7 @@
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.xQCjgB2DVqhtqGoGw9E6TQHaHa%26pid%3DApi&f=1"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
+<code><img height="20" src="https://img.icons8.com/nolan/64/ethereum.png"></code>
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Q4qu3UfPuHdzSYKp1mVRCAHaHa%26pid%3DApi&f=1"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -63,7 +63,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/ethereum/remix-ide/master/favicon.ico"></code> 
 <code><img height="20" src="https://pbs.twimg.com/profile_images/1317925773425168384/XQkaoFRg_400x400.jpg"></code> 
+<code><img height="20" src="https://img.icons8.com/color/48/000000/graphql.png"></code> 
+<code><img height="20" src="https://img.icons8.com/color/48/000000/sass.png"></code> 
+<code><img height="20" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code> 
 
+ 
+ 
 ![Hritwik's github stats](https://github-readme-stats.vercel.app/api?username=3scava1i3r&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ⭐️ From [3scava1i3r](https://github.com/3scava1i3r)
