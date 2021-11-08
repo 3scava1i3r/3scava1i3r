@@ -42,8 +42,8 @@
 - 💖 South-Korea & India
 - 🤟🏻 Love to hear EDM and K-pop
 - 🏫 Persuing my bachelor's at <a href="https://iiitl.ac.in/">IIIT Lucknow</a>
-- 🤗 Member at @axios-iiitl
-
+ 
+ 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -66,6 +66,9 @@
 <code><img height="20" src="https://img.icons8.com/color/48/000000/graphql.png"></code> 
 <code><img height="20" src="https://img.icons8.com/color/48/000000/sass.png"></code> 
 <code><img height="20" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code> 
+<code><img height="20" width="25" src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29738/preview_image/nodejs-expressjs.jpg"></code> 
+<code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.bc9pmTiyKR0WNPka2w3e0QHaHa%26pid%3DApi&f=1"></code> 
+<code><img height="20" width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rS4KZd9HPEr1WtjJaZu_2AHaD7%26pid%3DApi&f=1"></code> 
 
  
  
