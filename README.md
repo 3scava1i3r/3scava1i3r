@@ -42,7 +42,7 @@
 - 💖 South-Korea & India
 - 🤟🏻 Love to hear EDM and K-pop
 - 🏫 Persuing my bachelor's at <a href="https://iiitl.ac.in/">IIIT Lucknow</a>
- 
+- 💻 Checkout my [Portfolio Website](https://3scava1i3r.netlify.app/)
  
 **Languages and Tools:**  
 
