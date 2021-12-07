@@ -25,7 +25,7 @@
 <br />
 <br />
 
-<i>Hi, I'm Hritwik Tripathi, a Blockchain Geek 🚀 from India.Currently, I'm an web3 developer.I'm a mad person with an attitude of persuing "The Road Not Taken", trying to make a decentralized world possible. Beside's programming, I enjoy Swimming and playing Valorant</i>
+<i>Hi, I'm Hritwik Tripathi, a Blockchain Geek 🚀 from India.Currently, I'm a web3 developer.I'm a mad person with an attitude of persuing "The Road Not Taken", trying to make a decentralized world possible. Beside's programming, I enjoy Swimming and playing Valorant</i>
 
 
 <img align="right" alt="GIF" src="https://s-media-cache-ak0.pinimg.com/originals/5c/d6/3f/5cd63fd3b407ff02bb89d342741b452d.gif" />
