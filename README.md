@@ -1,25 +1,19 @@
-### Hey <img width="22" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Hi.gif" /> I'm Hritwik! <img width="35" src="https://siasky.net/DADVJXKnQMUnDXegHC7sj4NEBiEVVFcJkyEtUZ8P75oEwg" />
+### Hey <img width="25" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Hi.gif" /> I'm Hritwik! <img width="35" src="https://siasky.net/DADVJXKnQMUnDXegHC7sj4NEBiEVVFcJkyEtUZ8P75oEwg" />
 <br />
 <span>
  <a href="https://twitter.com/Escavalier99">
-  <img align="left" alt="Hritwik Tripathi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" width="25px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/>
   
 </a>
 <a href="https://www.linkedin.com/in/hritwik-tripathi-a936a2196//">
-  <img align="left" alt="Hritwik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/Escavalier_99">
-  <img align="left" alt="Hritwik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+  <img align="left" width="25px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
+
+ 
 <a href="mailto:tripathi.hritwik@gmail.com/">
-  <img align="left" alt="Hritwik's E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
-</a>
-<a href="https://medium.com/@3scava1i3r">
-  <img align="left" alt="Hritwik's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
-</a>
+  <img align="left" width="25px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/></a>
+
 <a href="https://www.instagram.com/escavalier99">
-  <img align="left" alt="Hritwik's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<img align="left" width="25px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
 <span>
   
 <br />
@@ -33,12 +27,11 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on improving my techskills
+- 👨🏽‍💻 I’m currently working on World of Dapps
 - 🌱 I’m currently learning web3
-- 👯 I’m looking to collaborate on Blogs and Hackathons
+- 👯 I’m looking to collaborate on [Blogs](https://medium.com/@3scava1i3r) and Hackathons
 - 💬 Ask me anything, I am happy to help
 - ⚡️ Fun-Fact: Sky is the limit
-- 🧡 Anime & K-Drama
 - 💖 South-Korea & India
 - 🤟🏻 Love to hear EDM and K-pop
 - 🏫 Persuing my bachelor's at <a href="https://iiitl.ac.in/">IIIT Lucknow</a>
@@ -47,10 +40,8 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.SFQjDynGjnR_XTIvDaYwBgHaHa%26pid%3DApi&f=1"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.bI8KDjd8-nDvzTX_Uok7FwHaHa%26pid%3DApi&f=1"></code>
-<code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.FulerPSf6CnOQcQ_Vo4KcQHaG2%26pid%3DApi&f=1"></code>
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.7D5uM_zPzVpXQMoruEzRPAHaKc%26pid%3DApi&f=1"></code>
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.xQCjgB2DVqhtqGoGw9E6TQHaHa%26pid%3DApi&f=1"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
