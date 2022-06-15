@@ -33,7 +33,7 @@
 - 💬 Ask me anything, I am happy to help
 - ⚡️ Fun-Fact: Sky is the limit
 - 💖 South-Korea & India
-- 🤟🏻 Love to hear EDM and K-pop
+- 🤟🏻 Check Out my [Organization](https://github.com/3scava1i3r-Projects) where i put all my well done projects
 - 🏫 Persuing my bachelor's at <a href="https://iiitl.ac.in/">IIIT Lucknow</a>
 - 💻 Checkout my [Portfolio Website](https://3scava1i3r.netlify.app/)
  
@@ -63,9 +63,11 @@
 
  
  
-![Hritwik's github stats](https://github-readme-stats.vercel.app/api?username=3scava1i3r&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
  
+![Hritwik's github stats](https://github-readme-stats.vercel.app/api?username=3scava1i3r&show_icons=true&count_private=true&theme=tokyonight&showicons=true)
  
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=3scava1i3r&langs_count=5&theme=tokyonight)]()
+
  
 ![](https://komarev.com/ghpvc/?username=3scava1i3r)
 
