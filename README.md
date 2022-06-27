@@ -29,7 +29,7 @@
 
 - 👨🏽‍💻 I’m currently working on World of Dapps
 - 🌱 I’m currently learning web3
-- 👯 I’m looking to collaborate on [Blogs](https://medium.com/@3scava1i3r) and Hackathons
+- 👯 I’m looking to collaborate on [Blogs](https://3scava1i3r.hashnode.dev/) and Hackathons
 - 💬 Ask me anything, I am happy to help
 - ⚡️ Fun-Fact: Sky is the limit
 - 💖 South-Korea & India
@@ -38,6 +38,7 @@
 - 💻 Checkout my [Portfolio Website](https://3scava1i3r.netlify.app/)
  
 **Languages and Tools:**  
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
@@ -62,7 +63,7 @@
 <code><img height="20" width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rS4KZd9HPEr1WtjJaZu_2AHaD7%26pid%3DApi&f=1"></code> 
 
  
- 
+ [![Hritwik's github activity graph](https://activity-graph.herokuapp.com/graph?username=3scava1i3r&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ![Hritwik's github stats](https://github-readme-stats.vercel.app/api?username=3scava1i3r&show_icons=true&count_private=true&theme=tokyonight&showicons=true)
  
