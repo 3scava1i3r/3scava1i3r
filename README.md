@@ -1,34 +1,36 @@
 ### Hey <img width="25" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Hi.gif" /> I'm Hritwik! <img width="35" src="https://siasky.net/DADVJXKnQMUnDXegHC7sj4NEBiEVVFcJkyEtUZ8P75oEwg" />
 <br />
 <span>
- <a href="https://twitter.com/Escavalier99">
+ <a href="https://twitter.com/0xHritwik">
 <img align="left" width="25px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png"/>
   
 </a>
-<a href="https://www.linkedin.com/in/hritwik-tripathi-a936a2196//">
+<a href="https://www.linkedin.com/in/hritwikt/">
   <img align="left" width="25px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
 
  
 <a href="mailto:tripathi.hritwik@gmail.com/">
   <img align="left" width="25px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/></a>
 
-<a href="https://www.instagram.com/escavalier99">
+<a href="https://www.instagram.com/_hritwik.tripathi_">
 <img align="left" width="25px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
 <span>
   
 <br />
 <br />
 
-<i>Hi, I'm Hritwik Tripathi, a Blockchain Geek 🚀 from India.Currently, I'm a web3 developer.I'm a mad person with an attitude of persuing "The Road Not Taken", trying to make a decentralized world possible. Beside's programming, I enjoy Swimming and playing Valorant</i>
+<i>Hritwik Tripathi is a self motivated undergraduate from IIIT Lucknow,fullstack web3 developer,with an attitude of pursuing "The Road Not Taken", trying to make a decentralised world possible.
+Hritwik's passion for opensource led him to contribute heavily to projects such as web3modal, web3uikit and wagmi web3 hooks, which eventually led to his current position at Moralis as an intern.
 
+For the past 3 years he has been working on web3 projects while competing in multiple international hackathons from devpost,dorahacks,gitcoin,ethglobal and devfolio.He had worked on chains like - ethereum, polygon, harmony,cronos, binance smart chain etc.With projects ranging from defi to nfts, he has worked on ideas such as gamefi, fractional nfts, streaming money, fixed interest bonds, and exploring the metaverse. Currently, he is working on two projects - stream based lending/borrowing and ecommerce-based metaverse. Beside's programming, I enjoy Swimming and playing Valorant</i>
+<br /><br />
 
-<img align="right" alt="GIF" src="https://s-media-cache-ak0.pinimg.com/originals/5c/d6/3f/5cd63fd3b407ff02bb89d342741b452d.gif" />
-
+<img height= "40%" width="40%" align="right" alt="GIF" src="https://s-media-cache-ak0.pinimg.com/originals/5c/d6/3f/5cd63fd3b407ff02bb89d342741b452d.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on World of Dapps
-- 🌱 I’m currently learning web3
+- 👨🏽‍💻 I’m currently working on Web3Auth integration
+- 🌱 I’m currently learning Web3
 - 👯 I’m looking to collaborate on [Blogs](https://3scava1i3r.hashnode.dev/) and Hackathons
 - 💬 Ask me anything, I am happy to help
 - ⚡️ Fun-Fact: Sky is the limit
