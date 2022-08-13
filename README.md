@@ -42,6 +42,10 @@ For the past 3 years he has been working on web3 projects while competing in mul
 **Languages and Tools:**  
 
 
+ <div align="center">
+  
+  
+  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.bI8KDjd8-nDvzTX_Uok7FwHaHa%26pid%3DApi&f=1"></code>
@@ -64,13 +68,12 @@ For the past 3 years he has been working on web3 projects while competing in mul
 <code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.bc9pmTiyKR0WNPka2w3e0QHaHa%26pid%3DApi&f=1"></code> 
 <code><img height="20" width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rS4KZd9HPEr1WtjJaZu_2AHaD7%26pid%3DApi&f=1"></code> 
 
- 
- [![Hritwik's github activity graph](https://activity-graph.herokuapp.com/graph?username=3scava1i3r&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-![Hritwik's github stats](https://github-readme-stats.vercel.app/api?username=3scava1i3r&show_icons=true&count_private=true&theme=tokyonight&showicons=true)
+  
+  ![Hritwik's github stats](https://github-readme-stats.vercel.app/api?username=3scava1i3r&show_icons=true&count_private=true&theme=tokyonight&showicons=true)
  
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=3scava1i3r&langs_count=5&theme=tokyonight)]()
-
+ <div/>
+ 
  
 ![](https://komarev.com/ghpvc/?username=3scava1i3r)
 
