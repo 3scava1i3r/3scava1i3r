@@ -1,4 +1,5 @@
-### Hey <img width="25" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Hi.gif" /> I'm Hritwik! <img width="35" src="https://siasky.net/DADVJXKnQMUnDXegHC7sj4NEBiEVVFcJkyEtUZ8P75oEwg" />
+### Hey <img width="25" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Hi.gif" /> I'm Hritwik! 
+
 <br />
 <span>
  <a href="https://twitter.com/0xHritwik">
