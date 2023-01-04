@@ -70,7 +70,7 @@ For the past 3 years he has been working on web3 projects while competing in mul
 <code><img height="20" width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rS4KZd9HPEr1WtjJaZu_2AHaD7%26pid%3DApi&f=1"></code> 
 
   
-  ![Hritwik's github stats](https://github-readme-stats.vercel.app/api?username=3scava1i3r&show_icons=true&count_private=true&theme=tokyonight&showicons=true)
+<!--   ![Hritwik's github stats](https://github-readme-stats.vercel.app/api?username=3scava1i3r&show_icons=true&count_private=true&theme=tokyonight&showicons=true) -->
  
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=3scava1i3r&langs_count=5&theme=tokyonight)]()
  <div/>
