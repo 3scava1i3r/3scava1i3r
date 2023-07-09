@@ -12,10 +12,6 @@
  
 <a href="mailto:tripathi.hritwik@gmail.com/">
   <img align="left" width="25px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png"/></a>
-
-<a href="https://www.instagram.com/_hritwik.tripathi_">
-<img align="left" width="25px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
-<span>
   
 <br />
 <br />
