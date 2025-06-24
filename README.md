@@ -43,7 +43,7 @@
 - 🧩 Developing intelligent data pipelines using Python, Playwright, Supabase, and n8n for end-to-end automation
 - 🤝 Open to collaborations in AI infrastructure, autonomous agents, and applied Web3
 - ✍️ Writing insights and tutorials on [Medium](https://medium.com/@joichiro.sai)
-- 🌐 Explore more on my [Portfolio Website](https://3scava1i3r.netlify.app)
+- 🌐 Explore more on my [Portfolio Website](https://hritwik.netlify.app)
 
 ---
 
