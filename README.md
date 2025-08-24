@@ -8,8 +8,7 @@
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.icons8.com/fluency/25/linkedin.png)](https://www.linkedin.com/in/hritwikt)  [![GitHub](https://img.icons8.com/fluency/25/github.png)](https://github.com/3scava1i3r)  [![Email](https://img.icons8.com/fluency/25/gmail.png)](mailto:tripathi.hritwik@gmail.com)  [![Twitter](https://img.icons8.com/fluency/25/twitter.png)](https://twitter.com/0xHritwik)
-
+[![LinkedIn](https://img.icons8.com/fluency/25/linkedin.png)](https://www.linkedin.com/in/hritwikt)  [![GitHub](https://img.icons8.com/fluency/25/github.png)](https://github.com/3scava1i3r)  [![Email](https://img.icons8.com/fluency/25/gmail.png)](mailto:tripathi.hritwik@gmail.com)  [![Twitter](https://img.icons8.com/fluency/25/twitter.png)](https://twitter.com/0xHritwik) [![Portfolio](https://cdn-icons-png.flaticon.com/24/3037/3037366.png)](https://hritwik.netlify.app/)
 ---
 
 ### 🏆 Achievements
