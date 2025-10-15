@@ -1,5 +1,7 @@
 ## 👋 Hi, I'm Hritwik Tripathi
 
+
+💼 Running HIE.agency — a software services studio
 🎓 B.Tech in IT from [IIIT Lucknow](https://iiitl.ac.in/)
 💻 Fullstack & Web3 Developer | Open Source Contributor  
 📍 Based in Delhi, India
@@ -8,7 +10,7 @@
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.icons8.com/fluency/25/linkedin.png)](https://www.linkedin.com/in/hritwikt)  [![GitHub](https://img.icons8.com/fluency/25/github.png)](https://github.com/3scava1i3r)  [![Email](https://img.icons8.com/fluency/25/gmail.png)](mailto:tripathi.hritwik@gmail.com)  [![Twitter](https://img.icons8.com/fluency/25/twitter.png)](https://twitter.com/0xHritwik) [![Portfolio](https://cdn-icons-png.flaticon.com/24/3037/3037366.png)](https://hritwik.netlify.app/)
+[![LinkedIn](https://img.icons8.com/fluency/25/linkedin.png)](https://www.linkedin.com/in/hritwikt)  [![GitHub](https://img.icons8.com/fluency/25/github.png)](https://github.com/3scava1i3r)  [![Email](https://img.icons8.com/fluency/25/gmail.png)](mailto:tripathi.hritwik@gmail.com)  [![Twitter](https://img.icons8.com/fluency/25/twitter.png)](https://twitter.com/0xHritwik) [![Portfolio](https://cdn-icons-png.flaticon.com/24/3037/3037366.png)](https://hritwik.hie.agency/)
 ---
 
 ### 🏆 Achievements
