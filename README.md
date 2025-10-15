@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Hritwik Tripathi
 
 
-💼 Running HIE.agency — a software services studio
-🎓 B.Tech in IT from [IIIT Lucknow](https://iiitl.ac.in/)
-💻 Fullstack & Web3 Developer | Open Source Contributor  
-📍 Based in Delhi, India
+💼 Running HIE.agency — a software services studio <br />
+🎓 B.Tech in IT from [IIIT Lucknow](https://iiitl.ac.in/) <br />
+💻 Fullstack & Web3 Developer | Open Source Contributor   <br />
+📍 Based in Delhi, India <br />
 
 ---
 
